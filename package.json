@@ -1,0 +1,14 @@
+{
+  "name": "discord-music-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:li-brandon/discord-music-bot.git",
+  "author": "li-brandon <li.brandon@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.10.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.39.0"
+  }
+}
